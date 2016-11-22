@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListaContactos</string>
+    <string name="sin_permisos">La App no tiene permisos de llamada</string>
+    <string name="nombre">Alfredo Ugarte</string>
+    <string name="telefono">5512345678</string>
+    <string name="email">alfredo@gmail.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nombre_contacto">20dp</dimen>
+    <dimen name="texto_seleccionable">20dp</dimen>
+    <dimen name="espacio_dedos">10dp</dimen>
+    <dimen name="radio_esquina_cv">4dp</dimen>
+</resources>
